@@ -1,4 +1,6 @@
-
+pwd
 cd
-man pwd
+ls
+less
+
 
